@@ -17,7 +17,7 @@ Components used:
 - 4x6N137 High speed optocoupler
 
 ## Schematic
-![Schematic](images/Schematic.pdf)
+[Schematic PDF](images/Schematic.pdf)
 
 ## BOM
 | Component | Value |
